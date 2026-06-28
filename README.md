@@ -1,16 +1,60 @@
-## Hi there 👋
+```markdown
+# Hi there 👋, I'm Ayush Kumawat
 
-<!--
-**void024/void024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Communication Engineering @ IIIT Manipur (2028)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about building scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- 📌 QueueFlow – Smart Virtual Queue Management Platform
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C
+- C++
+- Python
+- JavaScript (Learning)
+
+**Frontend**
+- HTML
+- CSS
+- React (Learning)
+
+**Backend**
+- Node.js (Learning)
+- Express.js (Learning)
+
+**Database**
+- PostgreSQL (Learning)
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build QueueFlow
+- 💯 Solve 300+ DSA Problems
+- 🌍 Contribute to Open Source
+- 💼 Crack a Software Engineering Internship
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/ayush-kumawat-051b08325
+- GitHub: https://github.com/void024
+- Codeforces: https://codeforces.com/profile/ayush.ly
+```
