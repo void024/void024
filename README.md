@@ -72,33 +72,22 @@ A collaborative software project where I focus on backend engineering and AI ser
 
 ---
 
+
+
+**Areas of Interest**### 0
 ### 03 / Technical Skills
 
-**Programming Languages**
-
-Java · C++ · JavaScript · C
-
-**Backend Development**
-
-Spring Boot · Node.js · Express.js · REST APIs
-
-**Databases**
-
-PostgreSQL · MongoDB
-
-**Frontend Development**
-
-React · HTML · CSS
-
-**Tools and Platforms**
-
-Git · GitHub · VS Code
-
-**Areas of Interest**
-
-AI agents · LLM-powered applications · System design · Distributed systems · Data Structures and Algorithms
+| Category | Technologies |
+|:--|:--|
+| **Programming Languages** | Java · C++ · JavaScript · C |
+| **Backend Development** | Spring Boot · Node.js · Express.js · REST APIs |
+| **Databases** | PostgreSQL · MongoDB |
+| **Frontend Development** | React · HTML · CSS |
+| **Tools and Platforms** | Git · GitHub · VS Code |
+| **Areas of Interest** | AI Agents · LLM Applications · System Design · Distributed Systems · DSA |
 
 ---
+
 
 ### 04 / Engineering Mindset
 
