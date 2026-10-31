@@ -17,28 +17,29 @@
 
 ---
 
-### `01 / About`
+### 01 / About
 
 I'm Ayush, an Electronics and Communication Engineering student at IIIT Manipur, interested in building reliable backend systems and AI-powered applications.
 
-My focus is on understanding how software works end to end — from APIs and databases to system architecture and intelligent workflows. I enjoy turning ideas into functional products and learning through hands-on development.
+My focus is on understanding how software works end to end, from APIs and databases to system architecture and intelligent workflows. I enjoy turning ideas into functional products and learning through hands-on development.
 
-- 🔭 Currently building **CivicLens AI**
-- ⚙️ Developing backend services and AI-agent workflows for **Pitsch**
-- 🌱 Learning Java, Spring Boot, DSA, and system design
-- 🤖 Interested in backend engineering, applied AI, and scalable applications
-- 🤝 Open to collaborating on meaningful software projects and hackathons
+- Currently building **CivicLens AI**
+- Developing backend services and AI-agent workflows for **Pitsch**
+- Learning Java, Spring Boot, Data Structures and Algorithms, and system design
+- Interested in backend engineering, applied AI, and scalable applications
+- Open to collaborating on meaningful software projects and hackathons
 
 ---
 
-### `02 / Current Projects`
+### 02 / Current Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏙️ CivicLens AI
-**AI × Civic Technology**
+#### CivicLens AI
+
+**AI and Civic Technology**
 
 My current project, focused on applying AI to civic problem-solving.
 
@@ -52,15 +53,16 @@ My current project, focused on applying AI to civic problem-solving.
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 Pitsch
-**Backend × AI Agents**
+#### Pitsch
+
+**Backend Engineering and AI Agents**
 
 A collaborative software project where I focus on backend engineering and AI services.
 
 - Java and Spring Boot backend
 - API and database integration
 - AI-agent services and workflows
-- Collaboration and full-stack integration
+- Full-stack collaboration and integration
 
 **Status:** In development
 
@@ -70,13 +72,13 @@ A collaborative software project where I focus on backend engineering and AI ser
 
 ---
 
-### `03 / Technical Arsenal`
+### 03 / Technical Skills
 
-**Languages**
+**Programming Languages**
 
 Java · C++ · JavaScript · C
 
-**Backend Engineering**
+**Backend Development**
 
 Spring Boot · Node.js · Express.js · REST APIs
 
@@ -84,21 +86,21 @@ Spring Boot · Node.js · Express.js · REST APIs
 
 PostgreSQL · MongoDB
 
-**Frontend**
+**Frontend Development**
 
 React · HTML · CSS
 
-**Tools & Workflow**
+**Tools and Platforms**
 
 Git · GitHub · VS Code
 
-**Areas I'm exploring**
+**Areas of Interest**
 
-AI agents · LLM-powered applications · System design · Distributed systems · Data Structures & Algorithms
+AI agents · LLM-powered applications · System design · Distributed systems · Data Structures and Algorithms
 
 ---
 
-### `04 / Engineering Mindset`
+### 04 / Engineering Mindset
 
 ```text
 01  Build first, understand deeply.
@@ -110,7 +112,7 @@ AI agents · LLM-powered applications · System design · Distributed systems ·
 
 ---
 
-### `05 / GitHub Analytics`
+### 05 / GitHub Analytics
 
 <div align="center">
 
@@ -126,7 +128,7 @@ AI agents · LLM-powered applications · System design · Distributed systems ·
 
 ---
 
-### `06 / Contribution Graph`
+### 06 / Contribution Activity
 
 <div align="center">
 
@@ -136,7 +138,7 @@ AI agents · LLM-powered applications · System design · Distributed systems ·
 
 ---
 
-### `07 / Beyond the Code`
+### 07 / Beyond the Code
 
 I'm interested in the engineering decisions behind real products: how services communicate, how databases are structured, how applications scale, and how AI can make existing workflows more effective.
 
@@ -146,14 +148,14 @@ I value consistent learning, collaborative development, and building things that
 
 <div align="center">
 
-### Let's build something meaningful.
+### Let's Build Something Meaningful
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/void024)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumawat-051b08325/)
 
 <br/>
 
-<sub>IIIT Manipur · ECE · Software Engineering & Applied AI</sub>
+<sub>IIIT Manipur | Electronics and Communication Engineering | Software Engineering and Applied AI</sub>
 
 <br/><br/>
 
